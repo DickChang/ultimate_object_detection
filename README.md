@@ -2,7 +2,8 @@
 pip install ultralytics
 
 # TODO
-use roboflow to anotate a dataset. at least 1000 samples. ideally 2000+
+The initial yolov8x detection works, but doesn't point out the objects specific to the game of Ultimate.
+- use roboflow to anotate a dataset. at least 1000 samples. ideally 2000+
 
 # Results
 ## Basic yolov8x object detection
