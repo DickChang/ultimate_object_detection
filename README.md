@@ -6,7 +6,8 @@ The initial yolov8x detection works, but doesn't point out the objects specific 
 - use roboflow to anotate a dataset. at least 1000 samples. ideally 2000+
 
 # Results
-## Basic yolov8x object detection
+### Basic yolov8x object detection
+It works, but doesn't detect anything relevant to the game. TODO create a custom dataset and train it to only look at things relevant to the game
 <!-- ![Output video of yolov8x](.\images\README\20240519_WUL_SFatSD_left_24_clip.webp) -->
 <img src=".\images\README\20240519_WUL_SFatSD_left_24_clip.webp">
 
